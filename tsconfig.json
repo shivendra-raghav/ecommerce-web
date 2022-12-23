@@ -22,7 +22,7 @@
   "tailwind.config.cjs",
   "postcss.config.cjs",
   "src",
-  "tests" 
+  "test" 
 ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
